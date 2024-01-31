@@ -1,0 +1,36 @@
+body{
+margin: auto;  
+background-color: #060d14;  
+width: 640px;
+
+font-family: 'Avenir', sans-serif;
+
+}
+
+h1{
+  color: white;
+  text-align: center;
+}
+
+h2{
+  color: pink;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+
+h3{
+  color: white;
+  text-align: right;
+}
+
+p{
+color: black;
+}
+img{
+  padding: 37%;
+  image-orientation:flip;
+}
+contact{
+  padding-top: 80%;
+}
+
