@@ -1,40 +1,37 @@
 body{
 margin: auto;  
-background-color: #060d14;  
 width: 640px;
-
 font-family: 'Avenir', sans-serif;
+margin-top: 100px;
 
+
+}
+
+.links, h1, h2{
+  text-align: center;
+}
+.links {
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 
 h1{
-  color: white;
+  color: #cd0808;
   text-align: center;
-}
-
-h2{
-  color: pink;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  text-align: center;
-}
-
-h3{
-  color: white;
-  text-align: right;
-}
-
-p{
-color: black;
 }
 img{
   padding: 37%;
   image-orientation:flip;
 }
-contact{
-  padding-top: 80%;
-}
-button{
-  
-  margin-right: 20px;
+nav{
+  display: flex;
+  margin-top: 50px;
+  margin-right: 40px;
+  gap: 5px;
 
 }
+.about{
+  text-align: center;
+}
+
